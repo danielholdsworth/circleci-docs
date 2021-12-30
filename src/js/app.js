@@ -13,7 +13,7 @@ window.Cookie = Cookie;
 window.AnalyticsClient = services.AnalyticsClient; // because it only has static methods, AnalyticsClient is not instantiated
 window.OptimizelyClient = new services.OptimizelyClient();
 
-import './site';
+import site from './site';
 
 services.lang.init();
 services.rum.init();
@@ -22,5 +22,7 @@ $(() => {
   services.instantsearch.init();
   services.highlightjsBadge.init();
   services.progressbar.init();
-  import(/* webpackPrefetch: true */ './experiments'); // imports all experiments
+  import(/* webpackPrefetch: true */ './experiments').then(
+    site.sidebar.highlightTocOnScroll,
+  ); // imports all experiments
 });
