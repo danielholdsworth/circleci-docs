@@ -24,5 +24,4 @@ For further information on markdown and asciidoc syntax refer to the [markdown d
     <li><a href="{{ site.baseurl }}/style/style-screenshots/">Using screenshots</a></li>
     <li><a href="{{ site.baseurl }}/style/style-images/">Using images</a></li>
   <ul>
-</div>
   
