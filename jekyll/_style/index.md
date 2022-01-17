@@ -17,7 +17,6 @@ For further information on markdown and asciidoc syntax refer to the [markdown d
     <li><a href="{{ site.baseurl }}/style/style-voice/">Style and voice</a></li>
     <li><a href="{{ site.baseurl }}/style/style-headings/">Headings</a></li>
     <li><a href="{{ site.baseurl }}/style/style-links/">Links</a></li>
-    <li><a href="{{ site.baseurl }}/style/style-grammar/">Grammar</a></li>
     <li><a href="{{ site.baseurl }}/style/style-code/">Using code examples</a></li>
     <li><a href="{{ site.baseurl }}/style/style-formatting/">Formatting</a></li>
     <li><a href="{{ site.baseurl }}/style/style-lists/">Using lists</a></li>

@@ -1,6 +1,5 @@
 = Style and voice
 :page-layout: classic-docs
-:page-liquid:
 :icons: font
 :toc: macro
 :toc-title:
@@ -26,3 +25,10 @@ Assume technical competence but explain concepts clearly and simply. Some concep
 == Punctuation
 * Avoid semicolons and dashes (en or em) to split sentences. Instead, add a new sentence, or use commas and periods.
 * Do not use ampersands (&) as a substitute for the word "and". The ampersand is used in logical notation for the binary operator AND.
+
+== Grammar
+* "Login" and "Setup" are not verbs, they are nouns. Use as follows:
+** The login screen …
+** Log in to your account …
+** Read the setup guide …
+** Set up your account …

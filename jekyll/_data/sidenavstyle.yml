@@ -8,8 +8,6 @@ en:
       link: style/style-headings/
     - name: Links
       link: style/style-links/
-    - name: Grammar
-      link: style/style-grammar/
     - name: Formatting
       link: style/style-formatting/
     - name: Using code samples

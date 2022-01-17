@@ -1,6 +1,5 @@
 = Headings
 :page-layout: classic-docs
-:page-liquid:
 :icons: font
 :toc: macro
 :toc-title:
@@ -22,6 +21,6 @@
 ** **Bad:** "Cats"
 
 * When referencing headings in prose, use the full heading with no quotes, and use title case.
-** **Good:** For more information, see the Hello World guide. +
-** **Bad:** For more information, see the "Hello world" guide.
+** **Good:** For more information, see the https://circleci.com/docs/2.0/hello-world/[Hello World] guide. +
+** **Bad:** For more information, see the https://circleci.com/docs/2.0/hello-world/["Hello world"] guide.
 
