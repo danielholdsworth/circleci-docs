@@ -1,7 +1,7 @@
 ---
 layout: classic-docs
 title: "Welcome to CircleCI Style Documentation"
-description: "Welcome to CircleCI Style Documentation"
+description: "Style guide for contributions to CircleCI docs."
 permalink: style/
 toc: false
 ---
